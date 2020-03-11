@@ -1,3 +1,4 @@
 # repoGerMudancas
-Primeiro repositório (ALTERACAO) Gerência de Configuração e Mudanças
-Nova mudanca Readme.md
+Primeiro repoioioositório (ALTERACAO) Gerência de Configuração e Mudanças
+Nova mudanca Readme.md okok
+olaaa beleza
